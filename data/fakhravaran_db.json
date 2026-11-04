@@ -791,8 +791,8 @@
           "name": "مهر",
           "exempt": false,
           "paid": false,
-          "days": 30,
-          "amount": 5700000,
+          "days": 15,
+          "amount": 2850000,
           "paidDate": ""
         },
         {
@@ -878,10 +878,10 @@
         {
           "name": "شهریور",
           "exempt": false,
-          "paid": false,
+          "paid": true,
           "days": 16,
           "amount": 3040000,
-          "paidDate": ""
+          "paidDate": "1405/06/15"
         }
       ]
     },
