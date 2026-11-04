@@ -1,11 +1,11 @@
 {
   "settings": {
-    "generalDesksCount": 30,
-    "vipDesksCount": 12,
-    "dailyRateGeneral": 120000,
-    "monthlyRateGeneral": 3600000,
-    "dailyRateVip": 180000,
-    "monthlyRateVip": 5400000,
+    "generalDesksCount": 22,
+    "vipDesksCount": 6,
+    "dailyRateGeneral": 190000,
+    "monthlyRateGeneral": 5700000,
+    "dailyRateVip": 206000,
+    "monthlyRateVip": 6200000,
     "theme": "light"
   },
   "currentView": "settings",
