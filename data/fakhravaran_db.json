@@ -8,11 +8,120 @@
     "monthlyRateVip": 6200000,
     "theme": "light"
   },
-  "currentView": "expenses",
+  "currentView": "desks",
   "studentFilter": "all",
   "studentLayout": "cards",
   "activeMonthIdx": 0,
   "students": [
+    {
+      "id": "st_1793801174075",
+      "name": "ایلیا طالبی",
+      "startMonthIdx": 0,
+      "startDate": "1405/07/26",
+      "deskType": "general",
+      "desk": 3,
+      "grade": "کنکوری تجربی",
+      "phone": "",
+      "contractTotal": 0,
+      "months": [
+        {
+          "name": "مهر",
+          "exempt": false,
+          "paid": false,
+          "days": 5,
+          "amount": 950000,
+          "paidDate": ""
+        },
+        {
+          "name": "آبان",
+          "exempt": false,
+          "paid": false,
+          "days": 13,
+          "amount": 2470000,
+          "paidDate": ""
+        },
+        {
+          "name": "آذر",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "دی",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "بهمن",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "اسفند",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "فروردین",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "اردیبهشت",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "خرداد",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "تیر",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "مرداد",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        },
+        {
+          "name": "شهریور",
+          "exempt": false,
+          "paid": false,
+          "days": 0,
+          "amount": 0,
+          "paidDate": ""
+        }
+      ]
+    },
     {
       "id": "st_1793800831684",
       "name": "نیما فتاحی",
@@ -232,12 +341,5 @@
       ]
     }
   ],
-  "expenses": [
-    {
-      "id": "ex_2",
-      "title": "قبض برق و اینترنت فیبر نوری",
-      "amount": 1400000,
-      "date": "1405/08/02"
-    }
-  ]
+  "expenses": []
 }
