@@ -8,7 +8,7 @@
     "monthlyRateVip": 6200000,
     "theme": "light"
   },
-  "currentView": "desks",
+  "currentView": "expenses",
   "studentFilter": "all",
   "studentLayout": "cards",
   "activeMonthIdx": 0,
@@ -233,12 +233,6 @@
     }
   ],
   "expenses": [
-    {
-      "id": "ex_1",
-      "title": "خرید قهوه، چای و پذیرایی سالن",
-      "amount": 1850000,
-      "date": "1405/07/05"
-    },
     {
       "id": "ex_2",
       "title": "قبض برق و اینترنت فیبر نوری",
