@@ -899,10 +899,10 @@
         {
           "name": "مهر",
           "exempt": false,
-          "paid": false,
+          "paid": true,
           "days": 30,
           "amount": 5700000,
-          "paidDate": ""
+          "paidDate": "1405/07/15"
         },
         {
           "name": "آبان",
