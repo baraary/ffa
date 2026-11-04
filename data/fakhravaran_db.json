@@ -245,18 +245,18 @@
         {
           "name": "مهر",
           "exempt": false,
-          "paid": false,
+          "paid": true,
           "days": 27,
           "amount": 5130000,
-          "paidDate": ""
+          "paidDate": "1405/07/15"
         },
         {
           "name": "آبان",
           "exempt": false,
-          "paid": false,
+          "paid": true,
           "days": 13,
           "amount": 2470000,
-          "paidDate": ""
+          "paidDate": "1405/08/15"
         },
         {
           "name": "آذر",
