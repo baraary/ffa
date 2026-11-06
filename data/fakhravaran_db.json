@@ -6,9 +6,10 @@
     "monthlyRateGeneral": 5700000,
     "dailyRateVip": 206000,
     "monthlyRateVip": 6200000,
-    "theme": "light"
+    "theme": "light",
+    "customLogo": ""
   },
-  "currentView": "desks",
+  "currentView": "settings",
   "studentFilter": "all",
   "studentLayout": "cards",
   "activeMonthIdx": 0,
@@ -30,6 +31,7 @@
           "paid": false,
           "days": 29,
           "amount": 5510000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -38,6 +40,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -46,6 +49,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -54,6 +58,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -62,6 +67,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -70,6 +76,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -78,6 +85,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -86,6 +94,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -94,6 +103,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -102,6 +112,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -110,6 +121,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -118,9 +130,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801774848",
@@ -139,6 +154,7 @@
           "paid": false,
           "days": 17,
           "amount": 3230000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -147,6 +163,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -155,6 +172,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -163,6 +181,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -171,6 +190,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -179,6 +199,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -187,6 +208,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -195,6 +217,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -203,6 +226,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -211,6 +235,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -219,6 +244,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -227,9 +253,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801759225",
@@ -248,6 +277,7 @@
           "paid": true,
           "days": 27,
           "amount": 5130000,
+          "paidAmount": 5130000,
           "paidDate": "1405/07/15"
         },
         {
@@ -256,6 +286,7 @@
           "paid": true,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 2470000,
           "paidDate": "1405/08/15"
         },
         {
@@ -264,6 +295,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -272,6 +304,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -280,6 +313,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -288,6 +322,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -296,6 +331,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -304,6 +340,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -312,6 +349,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -320,6 +358,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -328,6 +367,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -336,9 +376,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801746620",
@@ -357,6 +400,7 @@
           "paid": false,
           "days": 12,
           "amount": 2280000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -365,6 +409,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -373,6 +418,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -381,6 +427,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -389,6 +436,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -397,6 +445,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -405,6 +454,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -413,6 +463,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -421,6 +472,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -429,6 +481,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -437,6 +490,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -445,9 +499,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801732075",
@@ -466,6 +523,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -474,6 +532,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -482,6 +541,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -490,6 +550,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -498,6 +559,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -506,6 +568,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -514,6 +577,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -522,6 +586,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -530,6 +595,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -538,6 +604,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -546,6 +613,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -554,9 +622,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801706847",
@@ -575,6 +646,7 @@
           "paid": false,
           "days": 25,
           "amount": 4750000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -583,6 +655,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -591,6 +664,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -599,6 +673,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -607,6 +682,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -615,6 +691,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -623,6 +700,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -631,6 +709,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -639,6 +718,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -647,6 +727,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -655,6 +736,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -663,9 +745,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801686426",
@@ -684,6 +769,7 @@
           "paid": true,
           "days": 30,
           "amount": 5700000,
+          "paidAmount": 5700000,
           "paidDate": "1405/07/15"
         },
         {
@@ -692,6 +778,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -700,6 +787,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -708,6 +796,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -716,6 +805,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -724,6 +814,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -732,6 +823,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -740,6 +832,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -748,6 +841,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -756,6 +850,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -764,6 +859,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -772,9 +868,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801672933",
@@ -793,6 +892,7 @@
           "paid": false,
           "days": 15,
           "amount": 2850000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -801,6 +901,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -809,6 +910,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -817,6 +919,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -825,6 +928,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -833,6 +937,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -841,6 +946,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -849,6 +955,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -857,6 +964,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -865,6 +973,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -873,6 +982,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -881,9 +991,12 @@
           "paid": true,
           "days": 16,
           "amount": 3040000,
+          "paidAmount": 3040000,
           "paidDate": "1405/06/15"
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801479038",
@@ -902,6 +1015,7 @@
           "paid": true,
           "days": 30,
           "amount": 5700000,
+          "paidAmount": 5700000,
           "paidDate": "1405/07/15"
         },
         {
@@ -910,6 +1024,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -918,6 +1033,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -926,6 +1042,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -934,6 +1051,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -942,6 +1060,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -950,6 +1069,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -958,6 +1078,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -966,6 +1087,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -974,6 +1096,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -982,6 +1105,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -990,9 +1114,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801429860",
@@ -1011,6 +1138,7 @@
           "paid": false,
           "days": 26,
           "amount": 4940000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1019,6 +1147,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1027,6 +1156,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1035,6 +1165,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1043,6 +1174,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1051,6 +1183,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1059,6 +1192,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1067,6 +1201,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1075,6 +1210,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1083,6 +1219,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1091,6 +1228,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1099,9 +1237,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801381560",
@@ -1120,6 +1261,7 @@
           "paid": false,
           "days": 2,
           "amount": 380000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1128,6 +1270,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1136,6 +1279,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1144,6 +1288,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1152,6 +1297,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1160,6 +1306,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1168,6 +1315,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1176,6 +1324,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1184,6 +1333,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1192,6 +1342,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1200,6 +1351,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1208,9 +1360,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801242818",
@@ -1229,6 +1384,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1237,6 +1393,7 @@
           "paid": false,
           "days": 9,
           "amount": 1710000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1245,6 +1402,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1253,6 +1411,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1261,6 +1420,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1269,6 +1429,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1277,6 +1438,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1285,6 +1447,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1293,6 +1456,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1301,6 +1465,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1309,6 +1474,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1317,9 +1483,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793801174075",
@@ -1338,6 +1507,7 @@
           "paid": false,
           "days": 5,
           "amount": 950000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1346,6 +1516,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1354,6 +1525,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1362,6 +1534,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1370,6 +1543,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1378,6 +1552,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1386,6 +1561,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1394,6 +1570,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1402,6 +1579,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1410,6 +1588,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1418,6 +1597,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1426,9 +1606,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793800831684",
@@ -1447,6 +1630,7 @@
           "paid": false,
           "days": 9,
           "amount": 1710000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1455,6 +1639,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1463,6 +1648,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1471,6 +1657,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1479,6 +1666,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1487,6 +1675,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1495,6 +1684,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1503,6 +1693,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1511,6 +1702,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1519,6 +1711,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1527,6 +1720,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1535,9 +1729,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     },
     {
       "id": "st_1793800590661",
@@ -1556,6 +1753,7 @@
           "paid": false,
           "days": 11,
           "amount": 2090000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1564,6 +1762,7 @@
           "paid": false,
           "days": 13,
           "amount": 2470000,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1572,6 +1771,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1580,6 +1780,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1588,6 +1789,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1596,6 +1798,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1604,6 +1807,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1612,6 +1816,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1620,6 +1825,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1628,6 +1834,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1636,6 +1843,7 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         },
         {
@@ -1644,9 +1852,12 @@
           "paid": false,
           "days": 0,
           "amount": 0,
+          "paidAmount": 0,
           "paidDate": ""
         }
-      ]
+      ],
+      "customDailyRate": 0,
+      "customMonthlyRate": 0
     }
   ],
   "expenses": []
