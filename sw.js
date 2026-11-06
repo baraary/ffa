@@ -1,8 +1,12 @@
-const CACHE_NAME = 'fakhravaran-pwa-v4';
+const CACHE_NAME = 'fakhravaran-pwa-v6';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
+  './pwa-192x192.png',
+  './pwa-512x512.png',
+  './pwa-maskable-512x512.png',
+  './apple-touch-icon.png',
   './icon-192.svg',
   './icon-512.svg',
   'https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css'
@@ -25,8 +29,8 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-  if (event.request.url.includes('api.github.com')) {
-    return; // Never cache GitHub Cloud API requests
+  if (event.request.url.includes('api.github.com') || event.request.url.includes('fakhravaran_db.json')) {
+    return;
   }
   event.respondWith(
     caches.match(event.request).then((cached) => cached || fetch(event.request))
